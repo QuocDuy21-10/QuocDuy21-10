@@ -23,42 +23,34 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack & Tools
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `TypeScript`, `JavaScript`, `HTML5`, `CSS3` |
-| **Backend & Frameworks** | `Node.js`, `NestJS`, `Express.js`, `RESTful API`, `Socket.io`, `Passport.js` |
-| **Databases & Caching** | `MongoDB (Mongoose)`, `MySQL (Prisma ORM)`, `Redis` |
-| **Architecture & DevOps** | `Asynchronous Processing (BullMQ)`, `Docker`, `Linux (Ubuntu)`, `JWT & OAuth2`, `CASL (RBAC)` |
-| **Tools & Others** | `Git / GitHub`, `Postman`, `Swagger`, `Gemini API`, `Groq API` |
+#### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+#### ⚙️ Backend & Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### 🚀 Featured Projects
+#### 🗄️ Databases, Caching & Queues
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-#### 1. [IT Recruitment Platform](https://github.com/QuocDuy21-10/it-job-portal-be) `Sep 2025 – Mar 2026`
-> **Fullstack Developer (Backend-focused, Individual Project)**
-> 
-> *A closed-loop recruitment portal system for the IT industry, integrating Artificial Intelligence (AI) solutions to automate the resume screening process.*
-
-* ⚡ **Asynchronous Architecture:** Offloaded heavy tasks (AI CV analysis, scheduled emails) to background queues using **BullMQ & Redis** to prevent main-thread blocking.
-* 🚀 **Caching & Performance:** Implemented Redis-based explicit caching with proactive invalidation to optimize dashboard and API performance.
-* 🔒 **Security & Authorization:** Integrated **JWT** (access/refresh token rotation) and fine-grained Role-Based Access Control using **CASL**.
-* 🧠 **Hybrid Matching Engine:** Designed a weighted scoring algorithm to match candidates with job descriptions based on skills, experience level, and education.
-* 🤖 **Applied AI:** Automated unit test generation and execution to accelerate development while maintaining code quality.
-* 🔗 **Links:** [Backend Repo](https://github.com/QuocDuy21-10/it-job-portal-be) | [Frontend Repo](https://github.com/QuocDuy21-10/it-job-portal-fe)
-
----
-
-#### 2. [Laptop Shop Website](https://github.com/QuocDuy21-10/LaptopShop) `Jun 2025 – Jul 2025`
-> **Backend Developer (Server-Side Rendering Project)**
-> 
-> *An e-commerce platform allowing users to browse laptops, filter by criteria, manage carts, place orders, and track purchase history.*
-
-* 🔐 **Authentication:** Built secure session-based access control using **Passport.js**.
-* 💳 **Database Consistency:** Implemented **Prisma Transactions** to validate stock availability prior to order creation, preventing overselling and ensuring database integrity.
-* 🔗 **Links:** [GitHub Repository](https://github.com/QuocDuy21-10/LaptopShop)
+#### 🚀 DevOps, System & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -75,7 +67,7 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
 
 ---
 
-### 📫 Contact & Connect
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://portfolio.duydq.cloud" target="_blank">
@@ -83,5 +75,8 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
   </a>
   <a href="mailto:duydq2110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:0868496037">
+    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
