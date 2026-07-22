@@ -56,9 +56,15 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
 
 ### 📊 GitHub Statistics
 
+<!-- Biểu đồ tổng quan đóng góp (Ảnh 1) -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuocDuy21-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocDuy21-10&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+</p>
+
+<!-- Biểu đồ ngôn ngữ theo Repo & Commit xếp ngang hàng (Ảnh 2 & 3) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
 </p>
 
 <p align="center">
