@@ -47,8 +47,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=QuocDuy21-10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocDuy21-10&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
 <p align="center">
