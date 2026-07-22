@@ -84,7 +84,4 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
   <a href="mailto:duydq2110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:0868496037">
-    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
