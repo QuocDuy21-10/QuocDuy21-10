@@ -1,0 +1,21 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Tự động chạy lúc 0h UTC mỗi ngày
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Cho phép nhấn nút chạy thủ công bất cứ lúc nào
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vnscriptdiv/github-profile-summary-cards@v0.8.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
