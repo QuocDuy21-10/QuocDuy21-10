@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://portfolio.duydq.cloud" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:duydq2110@gmail.com">✉️ Email Me</a> •
-  <a href="tel:0868496037">📞 0868 496 037</a> •
+  <a href="tel:0868496037">📞 +84 xxxxxxxx</a> •
   📍 Nam Tu Liem, Ha Noi
 </p>
 
