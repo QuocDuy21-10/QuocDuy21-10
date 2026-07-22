@@ -1,46 +1,64 @@
-# Hi there, I'm Dinh Quoc Duy 👋
+# Hi there, I'm Đinh Quốc Duy 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Backend+%2F+Fullstack+Developer;Building+scalable+systems;Passionate+about+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Backend+Developer+(Node.js+%2F+NestJS);Building+Scalable+%26+High-Performance+Systems;Final-year+IT+Student+@+HUCE" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
-- 🔭 Tôi hiện đang tập trung phát triển các hệ thống **Backend & Fullstack Web Architecture**.
-- 💼 Thế mạnh chuyên môn: **Node.js (NestJS), Database Optimization & Event-Driven Architecture**.
-- 🎯 Mục tiêu hiện tại: Tối ưu hóa hiệu năng ứng dụng, xây dựng hệ thống crawler/data pipeline và nâng cao trình độ Tiếng Anh (TOEIC 800+).
-- 💬 Hãy trao đổi với tôi về: **RESTful APIs, Microservices, MongoDB, Redis, Docker, Next.js**.
+<p align="center">
+  <a href="https://portfolio.duydq.cloud" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:duydq2110@gmail.com">✉️ Email Me</a> •
+  <a href="tel:0868496037">📞 0868 496 037</a> •
+  📍 Nam Tu Liem, Ha Noi
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 👨‍💻 About Me
 
-#### Backend & Database
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Final-year Information Technology student at **Hanoi University of Civil Engineering (HUCE)** pursuing a career in **Backend Development**. Experienced in internships and hands-on projects specializing in **NestJS, Node.js, and MongoDB**. 
 
-#### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- 🎓 **Education:** Information Technology at HUCE (2022 - 2026)
+- 🔭 **Current Focus:** Asynchronous Systems, Queue Processing (BullMQ), Redis Caching & AI Integration in Web Apps.
+- 🎯 **Career Goal:** Seeking an **Intern / Fresher Backend Developer** position to develop technical expertise, gain industry experience, and contribute to high-quality software products.
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### 🛠️ Technical Skills
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `TypeScript`, `JavaScript`, `HTML5`, `CSS3` |
+| **Backend & Frameworks** | `Node.js`, `NestJS`, `Express.js`, `RESTful API`, `Socket.io`, `Passport.js` |
+| **Databases & Caching** | `MongoDB (Mongoose)`, `MySQL (Prisma ORM)`, `Redis` |
+| **Architecture & DevOps** | `Asynchronous Processing (BullMQ)`, `Docker`, `Linux (Ubuntu)`, `JWT & OAuth2`, `CASL (RBAC)` |
+| **Tools & Others** | `Git / GitHub`, `Postman`, `Swagger`, `Gemini API`, `Groq API` |
 
 ---
 
 ### 🚀 Featured Projects
 
-| Dự án | Công nghệ sử dụng | Mô tả ngắn |
-| :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/your-username/repo-1)** | `NestJS`, `Next.js`, `MongoDB`, `AI Integration` | Hệ thống tuyển dụng IT tích hợp tính năng phân tích CV và gợi ý công việc tự động bằng AI. |
-| **[Project Name 2](https://github.com/your-username/repo-2)** | `Node.js`, `Kafka`, `Puppeteer`, `Docker` | Hệ thống thu thập dữ liệu web tự động (Web Crawler) hỗ trợ xoay vòng Proxy và xử lý hàng đợi. |
+#### 1. [IT Recruitment Platform](https://github.com/QuocDuy21-10/it-job-portal-be) `Sep 2025 – Mar 2026`
+> **Fullstack Developer (Backend-focused, Individual Project)**
+> 
+> *A closed-loop recruitment portal system for the IT industry, integrating Artificial Intelligence (AI) solutions to automate the resume screening process.*
+
+* ⚡ **Asynchronous Architecture:** Offloaded heavy tasks (AI CV analysis, scheduled emails) to background queues using **BullMQ & Redis** to prevent main-thread blocking.
+* 🚀 **Caching & Performance:** Implemented Redis-based explicit caching with proactive invalidation to optimize dashboard and API performance.
+* 🔒 **Security & Authorization:** Integrated **JWT** (access/refresh token rotation) and fine-grained Role-Based Access Control using **CASL**.
+* 🧠 **Hybrid Matching Engine:** Designed a weighted scoring algorithm to match candidates with job descriptions based on skills, experience level, and education.
+* 🤖 **Applied AI:** Automated unit test generation and execution to accelerate development while maintaining code quality.
+* 🔗 **Links:** [Backend Repo](https://github.com/QuocDuy21-10/it-job-portal-be) | [Frontend Repo](https://github.com/QuocDuy21-10/it-job-portal-fe)
+
+---
+
+#### 2. [Laptop Shop Website](https://github.com/QuocDuy21-10/LaptopShop) `Jun 2025 – Jul 2025`
+> **Backend Developer (Server-Side Rendering Project)**
+> 
+> *An e-commerce platform allowing users to browse laptops, filter by criteria, manage carts, place orders, and track purchase history.*
+
+* 🔐 **Authentication:** Built secure session-based access control using **Passport.js**.
+* 💳 **Database Consistency:** Implemented **Prisma Transactions** to validate stock availability prior to order creation, preventing overselling and ensuring database integrity.
+* 🔗 **Links:** [GitHub Repository](https://github.com/QuocDuy21-10/LaptopShop)
 
 ---
 
@@ -57,12 +75,16 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact & Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/duy-%C4%91inh-903a09378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://portfolio.duydq.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="mailto:duydq2110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:0868496037">
+    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
