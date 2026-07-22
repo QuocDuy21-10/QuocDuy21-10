@@ -58,13 +58,13 @@ Final-year Information Technology student at **Hanoi University of Civil Enginee
 
 <!-- Biểu đồ tổng quan đóng góp (Ảnh 1) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="100%" />
 </p>
 
 <!-- Biểu đồ ngôn ngữ theo Repo & Commit xếp ngang hàng (Ảnh 2 & 3) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
-  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Languages by Repo" width="48%" />
+  <img src="https://raw.githubusercontent.com/QuocDuy21-10/QuocDuy21-10/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
 </p>
 
 <p align="center">
